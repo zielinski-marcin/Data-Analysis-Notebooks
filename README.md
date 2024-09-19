@@ -1,2 +1,2 @@
-# SQL
-My SQL queries.
+# Data Analysis Notebooks
+Examples of dataset analysis, using SQL and Python.
